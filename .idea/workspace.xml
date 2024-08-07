@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVS Data and Pandas/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVS Data and Pandas/weather_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Creaeted new repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yadaovinzce52/Learning.git",
+    "accountId": "479e6213-ebb5-4fac-b1da-c5d8050ffb74"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -42,7 +39,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723056663488</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creaeted new repo">
+      <option name="closed" value="true" />
+      <created>1723057752432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723057752432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creaeted new repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creaeted new repo" />
   </component>
 </project>
