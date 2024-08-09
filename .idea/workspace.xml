@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Created new repo" />
+    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Created new repo">
+      <change afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/new_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/squirrel_count.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVS Data and Pandas/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVS Data and Pandas/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/weather_data.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,44 +31,82 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yadaovinzce52"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yadaovinzce52&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yadaovinzce52/Learning.git",
-    "accountId": "479e6213-ebb5-4fac-b1da-c5d8050ffb74"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yadaovinzce52/Learning.git&quot;,
+    &quot;accountId&quot;: &quot;b28930ae-97ff-42a2-9229-aad8f86f28f6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kLIvox8i95UAoU9etNY9Y9GWzw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yadao\PycharmProjects\Learning\Day 25" />
+      <recent name="C:\Users\yadao\PycharmProjects\Learning\Squirrel_Data" />
       <recent name="C:\Users\yadaov\PycharmProjects\Learning\Learning\CVS Data and Pandas" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CVS Data and Pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CVS Data and Pandas/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18968.29" />
+        <option value="bundled-python-sdk-f5635417b835-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -69,6 +118,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723056663488</updated>
+      <workItem from="1723159360500" duration="22000" />
+      <workItem from="1723159387167" duration="215000" />
+      <workItem from="1723159609638" duration="1359000" />
+      <workItem from="1723160983773" duration="1440000" />
     </task>
     <task id="LOCAL-00001" summary="Creaeted new repo">
       <option name="closed" value="true" />
@@ -89,9 +142,16 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creaeted new repo" />
     <MESSAGE value="Created new repo" />
     <option name="LAST_COMMIT_MESSAGE" value="Created new repo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning$main.coverage" NAME="main Coverage Results" MODIFIED="1723162428375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 25/Squirrel_Data" />
   </component>
 </project>
