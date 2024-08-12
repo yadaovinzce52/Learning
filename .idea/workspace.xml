@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Pandas and CSV">
-      <change afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/new_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 25/Squirrel_Data/squirrel_count.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVS Data and Pandas/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVS Data and Pandas/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25/CVS Data and Pandas/weather_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Pandas and CSV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +110,7 @@
       <workItem from="1723159360500" duration="22000" />
       <workItem from="1723159387167" duration="215000" />
       <workItem from="1723159609638" duration="1359000" />
-      <workItem from="1723160983773" duration="1747000" />
+      <workItem from="1723160983773" duration="1795000" />
     </task>
     <task id="LOCAL-00001" summary="Creaeted new repo">
       <option name="closed" value="true" />
@@ -147,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723162742459</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pandas and CSV">
+      <option name="closed" value="true" />
+      <created>1723162784746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723162784746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
