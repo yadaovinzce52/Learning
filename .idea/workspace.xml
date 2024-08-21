@@ -74,7 +74,7 @@
       <recent name="C:\Users\yadaov\PycharmProjects\Learning\Learning\CVS Data and Pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.Other_Tkinter_Widgets">
     <configuration name="Other_Tkinter_Widgets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="ENV_FILES" value="" />
@@ -169,9 +169,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Other_Tkinter_Widgets" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.Other_Tkinter_Widgets" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +200,7 @@
       <workItem from="1723505376766" duration="3890000" />
       <workItem from="1723853062625" duration="6729000" />
       <workItem from="1724207329076" duration="5000" />
+      <workItem from="1724207429767" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="Creaeted new repo">
       <option name="closed" value="true" />
@@ -297,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723861692421</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="workspace.xml updated">
+      <option name="closed" value="true" />
+      <created>1724207445672</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724207445672</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +327,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1723861520996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 28/pomodoro-start" />
     <SUITE FILE_PATH="coverage/Learning$main.coverage" NAME="main Coverage Results" MODIFIED="1723854517834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 28/pomodoro-start" />
-    <SUITE FILE_PATH="coverage/Learning$Other_Tkinter_Widgets.coverage" NAME="Other_Tkinter_Widgets Coverage Results" MODIFIED="1723855451389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
+    <SUITE FILE_PATH="coverage/Learning$Other_Tkinter_Widgets.coverage" NAME="Other_Tkinter_Widgets Coverage Results" MODIFIED="1724208727484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
     <SUITE FILE_PATH="coverage/Learning$playground.coverage" NAME="playground Coverage Results" MODIFIED="1723509510294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
     <SUITE FILE_PATH="coverage/Learning$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1723855473608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27" />
   </component>
