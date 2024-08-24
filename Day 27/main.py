@@ -26,6 +26,4 @@ new_button.grid(column=2, row=0)
 input = Entry(width=10)
 input.grid(column=3, row=2)
 
-
-
 window.mainloop()
