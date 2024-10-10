@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Finished Day 33">
-      <change afterPath="$PROJECT_DIR$/Day 41/2.2 Paragraph Element/goal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/2.2 Paragraph Element/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 41/2.2 Paragraph Element/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Finished Day 41" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +219,7 @@
       <workItem from="1725411431998" duration="42000" />
       <workItem from="1725414843454" duration="2532000" />
       <workItem from="1728518648056" duration="97000" />
-      <workItem from="1728518752757" duration="1706000" />
+      <workItem from="1728518752757" duration="1797000" />
     </task>
     <task id="LOCAL-00001" summary="Creaeted new repo">
       <option name="closed" value="true" />
@@ -370,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724893669709</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Finished Day 41">
+      <option name="closed" value="true" />
+      <created>1728522445237</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728522445237</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,7 +393,8 @@
     <MESSAGE value="workspace updated" />
     <MESSAGE value="Finished Day 32" />
     <MESSAGE value="Finished Day 33" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Day 33" />
+    <MESSAGE value="Finished Day 41" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Day 41" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1723861520996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 28/pomodoro-start" />
