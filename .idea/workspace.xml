@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Finished Day 43">
-      <change afterPath="$PROJECT_DIR$/Day 45/bs4-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 45/bs4-start/website.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
+    <list default="true" id="214d8f81-65e8-460e-a9de-8eb506358d81" name="Changes" comment="Finished Day 44">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 45/bs4-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 45/bs4-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +47,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html (1).executor": "Run",
-    "JavaScript Debug.index.html (2).executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "Python.Other_Tkinter_Widgets.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main (3).executor": "Run",
-    "Python.main (4).executor": "Run",
-    "Python.main (5).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.playground.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/yadaov/WebstormProjects/Learning/Day 45",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html (2).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Other_Tkinter_Widgets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (5).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yadaov/WebstormProjects/Learning/Day 45&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day 45" />
@@ -89,7 +87,7 @@
       <recent name="C:\Users\yadao\OneDrive\Documents\GitHub\Learning" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Learning/Day 41/2.2 Paragraph Element/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -122,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,12 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 33" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 45/bs4-start" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 33/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 45/bs4-start/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -179,7 +177,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
       </set>
     </attachedChunks>
   </component>
@@ -215,9 +213,12 @@
       <workItem from="1728518752757" duration="1797000" />
       <workItem from="1728597225030" duration="1318000" />
       <workItem from="1728681905260" duration="1971000" />
-      <workItem from="1729805766354" duration="3178000" />
+      <workItem from="1729805766354" duration="3235000" />
+      <workItem from="1730242414842" duration="12000" />
+      <workItem from="1730242444945" duration="15000" />
       <workItem from="1729948016436" duration="27000" />
       <workItem from="1729948047390" duration="2060000" />
+      <workItem from="1730243213529" duration="8958000" />
     </task>
     <task id="LOCAL-00001" summary="Creaeted new repo">
       <option name="closed" value="true" />
@@ -411,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729805771578</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Finished Day 44">
+      <option name="closed" value="true" />
+      <created>1729809017059</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1729809017059</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +443,8 @@
     <MESSAGE value="Finished Day 41" />
     <MESSAGE value="Finished Day 42" />
     <MESSAGE value="Finished Day 43" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Day 43" />
+    <MESSAGE value="Finished Day 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Day 44" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1723861520996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 28/pomodoro-start" />
