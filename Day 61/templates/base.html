@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		{{ bootstrap.load_css() }}
+		<title>{% block title %}{% endblock %}</title>
+	</head>
+	<body>
+		{{ bootstrap.load_js() }}
+		{% block content %} {% endblock %}
+	</body>
+</html>
