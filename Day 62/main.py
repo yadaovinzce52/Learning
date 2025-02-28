@@ -3,8 +3,7 @@ from flask_bootstrap import Bootstrap5
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.fields.choices import SelectField
-from wtforms.fields.simple import URLField
-from wtforms.validators import DataRequired, NumberRange, URL
+from wtforms.validators import DataRequired, URL
 import csv
 
 app = Flask(__name__)
